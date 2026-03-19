@@ -1,0 +1,29 @@
+📊 数据探索分析图表已生成！
+
+图表 1: 训练集标签分布
+- 感兴趣：26.8%
+- 不感兴趣：3.3%
+- 无操作：69.8%
+
+图表 2: 用户性别分布
+- 男性：60.8%
+- 女性：38.9%
+
+图表 3: 事件国家分布 Top10
+- 美国：34%
+- 加拿大：4.4%
+- 英国：2.2%
+- 其他...
+
+图表 4: 用户好友数量分布
+- 平均：795 个好友
+- 中位数：481 个
+- 最多：4964 个
+
+<qqimg>file://C:\Users\Administrator\.openclaw\workspace\event_recommendation\eda_output\01_label_distribution.png</qqimg>
+
+<qqimg>file://C:\Users\Administrator\.openclaw\workspace\event_recommendation\eda_output\02_gender_distribution.png</qqimg>
+
+<qqimg>file://C:\Users\Administrator\.openclaw\workspace\event_recommendation\eda_output\03_country_distribution.png</qqimg>
+
+<qqimg>file://C:\Users\Administrator\.openclaw\workspace\event_recommendation\eda_output\04_friend_count_distribution.png</qqimg>

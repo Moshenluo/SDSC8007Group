@@ -1,0 +1,32 @@
+# 数据文件（太大，不上传）
+data/*.csv
+data/*.gz
+data/*.zip
+
+# 生成的图表
+eda_output/*.png
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 敏感信息
+*.json
+!kaggle_example.json

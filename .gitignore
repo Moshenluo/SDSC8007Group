@@ -3,8 +3,8 @@ data/*.csv
 data/*.gz
 data/*.zip
 
-# 生成的图表
-eda_output/*.png
+# 生成的图表（保留）
+# eda_output/*.png
 
 # Python 缓存
 __pycache__/
